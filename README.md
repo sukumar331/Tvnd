@@ -16,8 +16,7 @@ TVND Design focuses on developing precision mold design and automation solutions
 ## Website
 
 Visit the website:
-https://yourusername.github.io/tvnd
-
+https://sukumar331.github.io/Tvnd/
 ## Technologies Used
 
 - HTML
